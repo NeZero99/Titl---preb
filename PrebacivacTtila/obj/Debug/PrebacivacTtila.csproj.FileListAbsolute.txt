@@ -1,0 +1,10 @@
+E:\Documents E\Prebacivac Titla\PrebacivacTtila\PrebacivacTtila\obj\Debug\PrebacivacTtila.csprojAssemblyReference.cache
+E:\Documents E\Prebacivac Titla\PrebacivacTtila\PrebacivacTtila\obj\Debug\PrebacivacTtila.Main.resources
+E:\Documents E\Prebacivac Titla\PrebacivacTtila\PrebacivacTtila\obj\Debug\PrebacivacTtila.Properties.Resources.resources
+E:\Documents E\Prebacivac Titla\PrebacivacTtila\PrebacivacTtila\obj\Debug\PrebacivacTtila.csproj.GenerateResource.cache
+E:\Documents E\Prebacivac Titla\PrebacivacTtila\PrebacivacTtila\obj\Debug\PrebacivacTtila.csproj.CoreCompileInputs.cache
+E:\Documents E\Prebacivac Titla\PrebacivacTtila\PrebacivacTtila\bin\Debug\Prebacivac Ttila.exe.config
+E:\Documents E\Prebacivac Titla\PrebacivacTtila\PrebacivacTtila\bin\Debug\Prebacivac Ttila.exe
+E:\Documents E\Prebacivac Titla\PrebacivacTtila\PrebacivacTtila\bin\Debug\Prebacivac Ttila.pdb
+E:\Documents E\Prebacivac Titla\PrebacivacTtila\PrebacivacTtila\obj\Debug\Prebacivac Ttila.exe
+E:\Documents E\Prebacivac Titla\PrebacivacTtila\PrebacivacTtila\obj\Debug\Prebacivac Ttila.pdb
